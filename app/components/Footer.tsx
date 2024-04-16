@@ -6,7 +6,7 @@ export default function Footer() {
     <div className="flex items-center justify-center py-2 border-slate-800 border-t-[1px]">
       <div className="container px-4 text-sm text-light">
         <div className="flex justify-between px-4">
-          <p>© 2018 Gahara Batik, Inc. All rights reserved.</p>
+          <p>© 2018 lorem ipsum, Inc. All rights reserved.</p>
           <div className="flex text-xl gap-2">
             <CiInstagram />
             <FaWhatsapp />
