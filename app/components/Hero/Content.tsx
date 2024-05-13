@@ -11,7 +11,7 @@ export default function Content() {
   const router = useRouter();
 
   const handleProduct = () => {
-    alert("Just Demo");
+    router.push("/product");
   };
 
   return (

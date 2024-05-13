@@ -27,7 +27,7 @@ export default function NavbarContent({
   return (
     <>
       <div className="flex w-full lg:w-1/3 ">
-        <div className="w-12 h-12 rounded-full bg-yellow-900 flex items-center justify-center text-white">
+        <div className="w-12 h-12 hidden rounded-full bg-yellow-900 md:flex items-center justify-center text-white">
           logo
         </div>
         <button
